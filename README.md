@@ -21,7 +21,9 @@
 ---
 
 ## 👨‍💻 About Me
-
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 🎓 Informatics student at **Telkom University**, Indonesia, who enjoys building modern and responsive web applications.
 
 - 🌐 Frontend Web Development
